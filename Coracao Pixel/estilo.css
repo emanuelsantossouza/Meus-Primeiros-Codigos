@@ -1,0 +1,300 @@
+body 
+{
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin:0;
+} 
+
+.efeito
+{
+    background: rgba(0,0,0.7);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.tabuleiro
+{
+    position: absolute;
+    width: 720px;
+    height: 615px;
+    background-color: blueviolet;
+    left:50%;
+    margin-left: -330px;
+    top: 50%;
+    margin-top: -330px;
+    border: rebeccapurple, 5px solid ;   
+}
+
+.p1
+{
+    position:absolute;
+    top: 50px;
+    left: 150px;
+    height: 50px;
+    width: 150px; 
+    background: rgb(0, 0, 0);
+}
+
+.p2
+{
+    position:absolute;
+    top: 50px;
+    left: 450px;
+    height: 50px;
+    width: 150px; 
+    background: rgb(0, 0, 0);
+}
+
+.p3
+{
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    height: 50px;
+    width: 550px; 
+    background: rgb(0, 0, 0);
+}
+
+.p4
+{
+    position:absolute;
+    top: 100px;
+    left: 150px;
+    height: 50px;
+    width: 450px; 
+    background: rgb(160, 0, 0);
+}
+
+.p5
+{
+    position:absolute;
+    top: 100px;
+    left: 300px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(0, 0, 0);
+}
+
+.p6
+{
+    position:absolute;
+    top: 100px;
+    left: 350px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(255, 255, 255);
+}
+
+.p7
+{
+    position:absolute;
+    top: 100px;
+    left: 400px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(0, 0, 0);
+}
+
+.p8
+{
+    position:absolute;
+    top: 150px;
+    left: 50px;
+    height: 50px;
+    width: 650px; 
+    background: rgb(0, 0, 0);
+}
+
+.p9
+{
+    position:absolute;
+    top: 150px;
+    left: 100px;
+    height: 50px;
+    width: 550px; 
+    background: rgb(160, 0, 0);
+}
+
+.p10 
+{
+    position:absolute;
+    top: 150px;
+    left: 350px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(0, 0, 0);
+}
+
+.p11
+{
+    position:absolute;
+    top: 150px;
+    left: 150px;
+    height: 50px;
+    width: 100px; 
+    background: rgb(255, 255, 255);
+}
+
+.p12
+{
+    position:absolute;
+    top: 200px;
+    left: 50px;
+    height: 50px;
+    width: 650px; 
+    background: rgb(0, 0, 0);
+}
+
+.p13
+{
+    position:absolute;
+    top: 200px;
+    left: 100px;
+    height: 50px;
+    width: 550px; 
+    background: rgb(160, 0, 0);
+}
+
+.p14
+{
+    position:absolute;
+    top: 200px;
+    left: 150px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(255, 255, 255);
+}
+
+.p15
+{
+    position:absolute;
+    top: 250px;
+    left: 50px;
+    height: 50px;
+    width: 650px; 
+    background: rgb(0, 0, 0);
+}
+
+.p16
+{
+    position:absolute;
+    top: 250px;
+    left: 100px;
+    height: 50px;
+    width: 550px; 
+    background: rgb(160, 0, 0);
+}
+
+.p17
+{
+    position:absolute;
+    top: 300px;
+    left: 100px;
+    height: 50px;
+    width: 550px; 
+    background: rgb(0, 0, 0);
+}
+
+.p18
+{
+    position:absolute;
+    top: 300px;
+    left: 150px;
+    height: 50px;
+    width: 450px; 
+    background: rgb(160, 0, 0);
+}
+
+.p19
+{
+    position:absolute;
+    top: 350px;
+    left: 150px;
+    height: 50px;
+    width: 450px; 
+    background: rgb(0, 0, 0);
+}
+
+.p20
+{
+    position:absolute;
+    top: 350px;
+    left: 200px;
+    height: 50px;
+    width: 350px; 
+    background: rgb(160, 0, 0);
+}
+
+.p21
+{
+    position:absolute;
+    top: 400px;
+    left: 200px;
+    height: 50px;
+    width: 350px; 
+    background: rgb(0, 0, 0);
+}
+
+.p22
+{
+    position:absolute;
+    top: 400px;
+    left: 250px;
+    height: 50px;
+    width: 250px; 
+    background: rgb(160, 0, 0);
+}
+
+.p23
+{
+    position:absolute;
+    top: 450px;
+    left: 250px;
+    height: 50px;
+    width: 250px; 
+    background: rgb(0, 0, 0);
+}
+
+.p24
+{
+    position:absolute;
+    top: 450px;
+    left: 300px;
+    height: 50px;
+    width: 150px; 
+    background: rgb(160, 0, 0);
+}
+
+.p25
+{
+    position:absolute;
+    top: 500px;
+    left: 300px;
+    height: 50px;
+    width: 150px; 
+    background: rgb(0, 0, 0);
+}
+
+.p26
+{
+    position:absolute;
+    top: 500px;
+    left: 350px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(160, 0, 0);
+}
+
+.p27
+{
+    position:absolute;
+    top: 550px;
+    left: 350px;
+    height: 50px;
+    width: 50px; 
+    background: rgb(0, 0, 0);
+}
+

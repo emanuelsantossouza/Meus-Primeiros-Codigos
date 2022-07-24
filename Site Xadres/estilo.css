@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    background-image: url("img/godforwar\ \(2\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.tabuleiro{ 
+    position: absolute;
+    width: 640px;
+    height: 640px;
+    left:40;
+    top:40%;
+    right:40%;
+    bottom:20%;
+    background-image: url("img/idra.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
